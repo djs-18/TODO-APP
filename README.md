@@ -48,7 +48,7 @@ open index.html  # or just double-click to open in browser
 
 ## 🌐 Live Demo
 
-🔗 [View on GitHub Pages](https://djs-18.github.io/todo-app/)
+🔗 [View on GitHub Pages](https://djs-18.github.io/TODO-APP/)
 
 ---
 
