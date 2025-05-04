@@ -16,7 +16,7 @@ A minimal and stylish todo list web app to manage your daily tasks. Built using 
 ## 🖼️ UI Preview
 
 <!-- Screenshot will appear here -->
-![Todo App Screenshot](./screenshot.png)
+![Todo App Screenshot](./Screenshot.png)
 
 📌 To add a screenshot:
 1. Take a screenshot of the app in your browser (press `PrtSc` or `Shift+Cmd+4` on Mac).
@@ -33,7 +33,7 @@ todo-app/
 ├── styles.css
 ├── app.js
 ├── README.md
-├── screenshot.png
+├── Screenshot.png
 └── img/
     ├── edit.png
     └── bin.png
@@ -60,3 +60,9 @@ open index.html  # or just double-click to open in browser
 ## 👤 Author
 
 **Dibyajyoti Satpathy** — [GitHub](https://github.com/djs-18)
+
+
+---
+
+Let me know if you'd like me to personalize it with your name or help generate a screenshot for the preview section.
+
